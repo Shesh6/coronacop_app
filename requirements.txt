@@ -1,0 +1,5 @@
+flask
+fastai>=1.0
+torch
+torchvision
+opencv-python
